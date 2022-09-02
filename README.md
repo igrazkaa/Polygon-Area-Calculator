@@ -1,5 +1,5 @@
 # Polygon-Area-Calculator
-This is my Budget App project from Scientific Computing with Python course (freeCodeCamp).
+This is my Polygon Area Calculator project from Scientific Computing with Python course (freeCodeCamp).
 Instructions below are the same as on page [here](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/polygon-area-calculator).
 
 ### Assignment
